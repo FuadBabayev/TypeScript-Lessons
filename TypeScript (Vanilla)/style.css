@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pictures{
+    display: flex;
+    flex-flow: column, wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 70%;
+    margin: 50px auto;
+}
+.picture{
+    width: 100%;
+    border: 3px solid black;
+}
+img{
+    width: 100%;
+}
