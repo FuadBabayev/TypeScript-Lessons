@@ -1,6 +1,6 @@
 // ! GENERIC TYPE: is type which is kind of connected with some other type and is really flexible regarding which exact type that other type is
 // Todo: Generic Type helps you to get additional type information if you got more complex class or more complex function
-// ! Whenever you see code like that Array<T> it measn it is Generic Type
+// ! Whenever you see code like that Array<T> it measn it is Generic Types
 const array: Array<string | number> = ['Fuad', 19];
 const promise: Promise<any> = new Promise(resolve => resolve('true'));              // ! <any> does not care about data types if type would be number i cannot split
 promise.then(data => data.split(' '));                                              // ! that's why split() method does not give an error
