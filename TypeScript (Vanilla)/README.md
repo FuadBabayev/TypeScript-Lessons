@@ -11,7 +11,7 @@
 9.  `npx tsc`                                Compile (converts) All TypeScript file into JavaScript file
 10. `npx tsc -w` or `npx tsc --watch`        Wacth TypeScript and whenever it changes automatically compile
 11. `npm install -g ts-node`                 Download TypeScript Node in order to show in terminal
-12. `npx ts-node fileName.ts`                Wihtout any complication it shows TypeScript in Terminal
+12. `npx ts-node fileName.ts`                Wihtout any complication it shows TypeScript in Termina
 
 
 > [!NOTE]
