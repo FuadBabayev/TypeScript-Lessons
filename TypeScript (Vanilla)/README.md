@@ -19,7 +19,7 @@
 > `target`               : Derlenmiş JavaScript'in hangi ECMAScript sürümüne uygun olacağını belirler
 > `module`               : Modül sistemini belirler (örn. comonjs, es2015)
 > `strict`               : Sıkı tip denetimi için true olarak ayarlanabilir.
-> `outDir`               : Derlenmiş Javascript dosyalarının nereye kaydedileceğini belirtir.
+> `outDir`               : Derlenmiş Javascript dosyalarının nereye kaydedileceğini  belirtir.
 > `include` ve `exclude` : Hangi dosyaların derleme işlemine dahil edileceğini veya edilmeyeceğini berlirler 
 
 
