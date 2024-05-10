@@ -17,7 +17,7 @@ It will happen automatically if you build your code for production by running `n
 
 
 # Elements with Type Interfaces
-input            <HTMLInputElement>  also available with <HTMLElement> <Element> <Node> <EventTarget>
+input            <HTMLInputElement>  also available with <HTMLElement> <Element> <Node> <EventTarget> 
 label            <HTMLLabelElement>
 form             <HTMLFormElement>
 event            <React.FormEvent>
